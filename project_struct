@@ -1,0 +1,3 @@
+basic_port_scanner/
+├── port_scanner.py  # Python script for the port scanner
+└── README.md        # Project documentation
